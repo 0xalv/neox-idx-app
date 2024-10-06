@@ -1,0 +1,43 @@
+/* src/components/IntroPage.css */
+.intro-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0px 10px;
+  font-family: Arial, sans-serif;
+  text-align: left;
+}
+
+.intro-container h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.intro-container p {
+  font-size: 1.1em;
+  line-height: 1.6;
+  color: #a9a8a8;
+}
+
+.faq-section {
+  margin-top: 40px;
+}
+
+.faq-section h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.faq-item {
+  margin-bottom: 20px;
+}
+
+.faq-item h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.faq-item p {
+  font-size: 1.1em;
+  line-height: 1.5;
+}

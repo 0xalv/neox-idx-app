@@ -1,0 +1,44 @@
+[
+  {
+    "ticker": "USDC",
+    "img": "https://imgs.search.brave.com/qVfnM06301I6nmM20XJwh7E1dtjKpAU1IA0dllgkXNo/rs:fit:40:40:1:0/g:ce/aHR0cHM6Ly9jb2lu/LWltYWdlcy5jb2lu/Z2Vja28uY29tL2Nv/aW5zL2ltYWdlcy82/MzE5L2xhcmdlL3Vz/ZGMucG5nPzE2OTY1/MDY2OTQ",
+    "name": "USDC",
+    "address": "0x736d92ad91633f2e627cf97e33f73f8f6c7a7ef5",
+    "decimals": 18
+  },
+  {
+    "ticker": "BTC",
+    "img": "https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=035",
+    "name": "BTC",
+    "address": "0x735461a1ce356c382396c45da35eff9a586282db",
+    "decimals": 18
+  },
+  {
+    "ticker": "ETH",
+    "img": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=035",
+    "name": "ETH",
+    "address": "0x8858bd3ca0677e85cb72aa8fe6780b9c037d73eb",
+    "decimals": 18
+  },
+  {
+    "ticker": "BNB",
+    "img": "https://cryptologos.cc/logos/bnb-bnb-logo.png?v=035",
+    "name": "BNB",
+    "address": "0x5fc68b614e1d1cafe9da8a74b89100d77f447842",
+    "decimals": 18
+  },
+  {
+    "ticker": "UNI",
+    "img": "https://cryptologos.cc/logos/uniswap-uni-logo.png?v=035",
+    "name": "UNI",
+    "address": "0x1e644ff194abc4a282bf38c4be24ba96a40d6abd",
+    "decimals": 18
+  },
+  {
+    "ticker": "DOGE",
+    "img": "https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=035",
+    "name": "DOGE",
+    "address": "0x3895aedeb120f47bb9ad896a5de3a8443b0cedda",
+    "decimals": 18
+  }
+]
