@@ -2,7 +2,7 @@
 
 This is the source code of the IDX app using Typescript for the NeoX hackathon. It includes the front end and the smart contract integration.
 
-You can check the live website at:
+You can check the live website at: https://neox-idx-app.vercel.app/
 
 # These are the steps to interact with:
 
